@@ -4,3 +4,7 @@ To use:
 ```
 npm install
 ```
+Then 
+```
+npm start
+```
